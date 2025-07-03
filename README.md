@@ -28,4 +28,5 @@ Este proceso puede tardar algunos minutos dependiendo del rendimiento de tu equi
 Una vez el proyecto esté cargado en Unity:
 
 - Haz clic en el botón **"Play"** (ubicado en la parte superior central de la interfaz de Unity).
-- El gemelo digital comenzará su funcionamiento.
+- Por defecto, Unity mostrará la ventana **Game**. Para visualizar correctamente el funcionamiento del gemelo digital, cambia manualmente a la ventana **Scene** (pestaña ubicada junto a "Game").
+- Desde la vista **Scene** podrás observar el comportamiento en tiempo real del gemelo digital.
