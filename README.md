@@ -30,3 +30,11 @@ Una vez el proyecto esté cargado en Unity:
 - Haz clic en el botón **"Play"** (ubicado en la parte superior central de la interfaz de Unity).
 - Por defecto, Unity mostrará la ventana **Game**. Para visualizar correctamente el funcionamiento del gemelo digital, cambia manualmente a la ventana **Scene** (pestaña ubicada junto a "Game").
 - Desde la vista **Scene** podrás observar el comportamiento en tiempo real del gemelo digital.
+
+# Vídeos de funcionamiento
+
+A continuación se incluyen tres vídeos del gemelo digital en funcionamiento desde tres puntos de vista distintos. Esto permite observar claramente los dos tipos de ciclos presentes en el sistema:
+
+- **Punto de vista 1:** [Ver video](https://drive.google.com/file/d/1trEfzbuX0ywWnDeUOL7X-NW1S8aOn1YQ/view?usp=drive_link)
+- **Punto de vista 2:** [Ver video](https://drive.google.com/file/d/1WX1VbGTKINhBfc1YJrTE51U8Jq-_bPMH/view?usp=drive_link)
+- **Punto de vista 3:** [Ver video](https://drive.google.com/file/d/1trEfzbuX0ywWnDeUOL7X-NW1S8aOn1YQ/view?usp=drive_link)
